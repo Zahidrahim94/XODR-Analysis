@@ -2,6 +2,10 @@
 # XODR Analysis
 
 This is a simple Python application that allows you to analyze XODR (OpenDRIVE) files. It provides a graphical user interface (GUI) built using the `tkinter` library for selecting an XODR file and displays visualizations of the object and signal counts within the file using `matplotlib`.
+![Screenshot from 2023-05-11 18-33-27](https://github.com/user-attachments/assets/2f57548c-a3b9-49a2-8e4b-b5eff660f190)
+
+![Screenshot from 2023-05-11 18-39-25](https://github.com/user-attachments/assets/0a1e5db6-3a48-4be2-b69f-57c7af5d68ce)
+
 
 ## Requirements
 
